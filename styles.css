@@ -16,6 +16,9 @@ body {
   .info {
     font-size: .6em;
   }
+  .desktop {
+    visibility: hidden;
+  }
 }
 
 #embed-html {
