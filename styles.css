@@ -15,5 +15,6 @@ body {
 
 #embed-html {
   z-index: 0;
+  position: absolute;
 }
 
